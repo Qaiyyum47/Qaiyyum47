@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I’m a Computer Science student at Universiti Put
 ![React](https://img.shields.io/badge/React-%2361dafb.svg?style=flat&logo=react&logoColor=black)
 
 ## 🛠️ Projects
-
+- **Sales Dashboard**: [A sales database management dashboard project](https://github.com/Qaiyyum47/Sales-Dashboard)
+  
 ## 📚 Current Focus
 I’m currently expanding my knowledge in full-stack development, particularly with JavaScript frameworks like React, and exploring advanced Java and SQL techniques.
 
