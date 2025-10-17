@@ -1,6 +1,6 @@
 # Hi there, I'm Qaiyyum! 👋  
 
-I’m a Computer Science student passionate about web development and building clean, scalable apps.  
+I’m a Computer Science student passionate about web development and building clean, scalable apps  
 
 ## ⚡ Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
